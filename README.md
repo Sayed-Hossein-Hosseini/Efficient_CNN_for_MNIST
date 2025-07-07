@@ -68,11 +68,11 @@ After training, the model achieves approximately 98% accuracy on the test set.
 
 ## 🔬 Advantages & Highlights
 
-✅ Optimized design with minimal layers
-✅ Eliminates heavy fully connected layers using Global Average Pooling
-✅ Suitable for resource-constrained devices (e.g., mobile, embedded)
-✅ Achieves high accuracy with a compact architecture
-✅ Thorough comparison with both lightweight and heavyweight models, demonstrating excellent performance with significantly fewer parameters
+✅ Optimized design with minimal layers<br>
+✅ Eliminates heavy fully connected layers using Global Average Pooling<br>
+✅ Suitable for resource-constrained devices (e.g., mobile, embedded)<br>
+✅ Achieves high accuracy with a compact architecture<br>
+✅ Thorough comparison with both lightweight and heavyweight models, demonstrating excellent performance with significantly fewer parameters<br>
 
 ---
 
